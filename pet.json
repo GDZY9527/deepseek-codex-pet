@@ -1,0 +1,7 @@
+{
+  "id": "deepseek",
+  "displayName": "DeepSeek",
+  "description": "A calm DeepSeek companion for focused work.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.png"
+}
