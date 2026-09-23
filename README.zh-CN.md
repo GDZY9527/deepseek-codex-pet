@@ -1,14 +1,14 @@
-# DeepSeek Codex 桌面宠物
+# DeepSeek 鲸鱼娘 Codex 桌面宠物
 
 [English](README.md) | [中文](README.zh-CN.md)
 
-基于 DeepSeek 蓝色 Q 版角色素材制作的 Codex / Hatch Pet v2 内置桌面宠物。
+基于 DeepSeek 鲸鱼娘素材制作的 Codex / Hatch Pet v2 内置桌面宠物。
 
 ![DeepSeek 动画图集](spritesheet.png)
 
 ## 简介
 
-这是一个适用于 Codex 内置宠物系统的 DeepSeek 动画宠物包，不是独立运行的桌面程序。宠物使用 Hatch Pet v2 图集规范，并保留了角色原有的服装、发型、配色与整体形象。
+这是一个适用于 Codex 内置宠物系统的 DeepSeek 鲸鱼娘动画宠物包，不是独立运行的桌面程序。宠物使用 Hatch Pet v2 图集规范，并保留了角色原有的服装、发型、配色与整体形象。
 
 ## 安装方法
 
