@@ -2,7 +2,7 @@
 
 A Codex/Hatch Pet v2 package based on the supplied DeepSeek blue chibi character artwork.
 
-![Animation atlas preview](preview.png)
+![Animation atlas preview](spritesheet.png)
 
 ## Installation
 
