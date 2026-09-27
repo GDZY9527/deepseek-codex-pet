@@ -8,7 +8,7 @@ A Codex/Hatch Pet v2 package based on the supplied DeepSeek blue chibi character
 
 ## Overview
 
-This is a DeepSeek animated pet package for the built-in Codex pet system, not a standalone desktop application. It follows the Hatch Pet v2 atlas contract while preserving the character's original clothing, hairstyle, colors, and overall identity.
+This is a DeepSeek animated pet package for the built-in Codex pet system, not a standalone desktop application. It follows the Hatch Pet v2 atlas contract while preserving the character's original clothing, hairstyle, colors, and overall identity. The current release uses the approved high-definition redraw for all nine animation rows and all sixteen look directions.
 
 ## Installation
 
@@ -52,6 +52,4 @@ Restart Codex, open **Settings → Pets**, and select **DeepSeek**.
 - Clockwise look directions: 16
 - Transparent RGB residue: 0 pixels
 
-## Animation notes
 
-The jump row preserves the first five authored poses so Codex's longer final-frame hold lands on the airborne star pose, retaining the original clear and slightly snappy jump rhythm.
